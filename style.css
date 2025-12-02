@@ -1,0 +1,19 @@
+* {
+    margin : 0;
+    padding: 0;
+}
+
+
+.warpper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.img-style1.jpg.jpg  {
+width: 100px;
+}
+
+.img-style2.jpg.jpg {
+    width: 100px;
+}
+
